@@ -1,7 +1,10 @@
 # PlanetSimulation
 This script simulates the movement of planets around the Sun using the laws of Newtonian physics:
-  the Law of Universal Gravitation and Newton's Second Law (F = ma), 
-  as well as the Pythagorean Theorem and basic trigonometric relationships to calculate the behavior of Cosmic Bodies in weightlessness.
+- **The Law of Universal Gravitation**
+  * $F = G*(M*m)/r^2$
+- **The Newton's Second Law**
+  * $F = ma$, 
+- as well as the **Pythagorean Theorem** and basic **trigonometric** relationships to calculate the behavior of **Cosmic Bodies in weightlessness**.
   
 This script calculates the mutual gravitational influence of all bodies on each other, 
 and displays the estimated trajectory of movement of all planets and the distance of each planet from the center of the Sun 
