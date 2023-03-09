@@ -116,7 +116,7 @@ def main():
     # Setting up Planet instances
     sun = Planet(0, 0, 30, YELLOW, 1.98892 * 10**30, 0, True)
 
-    # Ok, ok... Sun isn't a Planet.. don't yell on me..
+    # Ok, ok... Sun isn't a Planet! Don't yell at me.
     mercury = Planet(0.387 * Planet.AU, 0, 8, DARK_GRAY, 3.30 * 10**23, -47.4 * 1000)
     venus = Planet(0.723 * Planet.AU, 0, 14, WHITE, 4.8685 * 10**24, -35.02 * 1000)
     earth = Planet(-1 * Planet.AU, 0, 16, BLUE, 5.9742 * 10**24, 29.783 * 1000)
